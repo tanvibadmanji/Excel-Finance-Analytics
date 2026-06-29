@@ -38,55 +38,55 @@ This project demonstrates how Microsoft Excel can be leveraged as a Business Int
 # 📊 Dashboard Reports
 
 ## 👥 Customer Performance Report
+📄 **[View Customer Performance Report (PDF)](Reports/Customer%20Performance%20Report.pdf)**
+
 <p align="center">
   <img src="Images/customer-performance-report.png" alt="Customer Performance Report" width="900">
 </p>
-
-📄 **[View Customer Performance Report (PDF)](Reports/Customer%20Performance%20Report.pdf)**
 
 Analyzes customer-wise sales performance across multiple fiscal years, helping identify high-performing customers, evaluate revenue contribution, and monitor year-over-year growth.
 
 ---
 
 ## 🌍 Market Performance vs Target
+📄 **[View Market Performance vs Target Report (PDF)](Reports/Market%20Performance%20vs%20Target.pdf)**
+
 <p align="center">
   <img src="Images/market-performance-vs-target.png" alt="Market Performance vs Target" width="900">
 </p>
-
-📄 **[View Market Performance vs Target Report (PDF)](Reports/Market%20Performance%20vs%20Target.pdf)**
 
 Compares actual sales against predefined targets across various markets, enabling users to identify performance gaps and evaluate target achievement.
 
 ---
 
 ## 💰 Profit & Loss Statement by Fiscal Year
+📄 **[View P&L Statement by Fiscal Year (PDF)](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**
+
 <p align="center">
   <img src="Images/pnl-fiscal-year.png" alt="P&L Statement by Fiscal Year" width="900">
 </p>
-
-📄 **[View P&L Statement by Fiscal Year (PDF)](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**
 
 Provides a yearly financial overview by analyzing Net Sales, Cost of Goods Sold (COGS), Gross Margin, Gross Margin %, and Year-over-Year growth.
 
 ---
 
 ## 📅 Profit & Loss Statement by Month
+📄 **[View P&L Statement by Month (PDF)](Reports/P%26L%20Statement%20by%20Months.pdf)**
+
 <p align="center">
   <img src="Images/pnl-monthly.png" alt="P&L Statement by Month" width="900">
 </p>
-
-📄 **[View P&L Statement by Month (PDF)](Reports/P%26L%20Statement%20by%20Months.pdf)**
 
 Tracks monthly and quarterly financial performance to identify seasonal trends, revenue fluctuations, and profitability patterns.
 
 ---
 
 ## 🌎 Profit & Loss Statement by Market
+📄 **[View P&L Statement by Market (PDF)](Reports/P%26L%20Statement%20by%20Markets.pdf)**
+
 <p align="center">
   <img src="Images/pnl-market.png" alt="P&L Statement by Market" width="900">
 </p>
-
-📄 **[View P&L Statement by Market (PDF)](Reports/P%26L%20Statement%20by%20Markets.pdf)**
 
 Compares profitability across different markets using Net Sales, Gross Margin, and Gross Margin %, supporting market-level performance analysis.
 
