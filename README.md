@@ -38,6 +38,9 @@ This project demonstrates how Microsoft Excel can be leveraged as a Business Int
 # 📊 Dashboard Reports
 
 ## 👥 Customer Performance Report
+<p align="center">
+  <img src="Images/customer-performance-report.png" alt="Customer Performance Report" width="900">
+</p>
 
 📄 **[View Customer Performance Report (PDF)](Reports/Customer%20Performance%20Report.pdf)**
 
@@ -46,6 +49,9 @@ Analyzes customer-wise sales performance across multiple fiscal years, helping i
 ---
 
 ## 🌍 Market Performance vs Target
+<p align="center">
+  <img src="Images/market-performance-vs-target.png" alt="Market Performance vs Target" width="900">
+</p>
 
 📄 **[View Market Performance vs Target Report (PDF)](Reports/Market%20Performance%20vs%20Target.pdf)**
 
@@ -54,6 +60,9 @@ Compares actual sales against predefined targets across various markets, enablin
 ---
 
 ## 💰 Profit & Loss Statement by Fiscal Year
+<p align="center">
+  <img src="Images/pnl-fiscal-year.png" alt="P&L Statement by Fiscal Year" width="900">
+</p>
 
 📄 **[View P&L Statement by Fiscal Year (PDF)](Reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)**
 
@@ -62,6 +71,9 @@ Provides a yearly financial overview by analyzing Net Sales, Cost of Goods Sold 
 ---
 
 ## 📅 Profit & Loss Statement by Month
+<p align="center">
+  <img src="Images/pnl-monthly.png" alt="P&L Statement by Month" width="900">
+</p>
 
 📄 **[View P&L Statement by Month (PDF)](Reports/P%26L%20Statement%20by%20Months.pdf)**
 
@@ -70,6 +82,9 @@ Tracks monthly and quarterly financial performance to identify seasonal trends, 
 ---
 
 ## 🌎 Profit & Loss Statement by Market
+<p align="center">
+  <img src="Images/pnl-market.png" alt="P&L Statement by Market" width="900">
+</p>
 
 📄 **[View P&L Statement by Market (PDF)](Reports/P%26L%20Statement%20by%20Markets.pdf)**
 
