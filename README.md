@@ -40,9 +40,9 @@ This project demonstrates how Microsoft Excel can be leveraged as a Business Int
 ## 👥 Customer Performance Report
 📄 **[View Customer Performance Report (PDF)](Reports/Customer%20Performance%20Report.pdf)**
 
-<p align="center">
-  <img src="Images/customer-performance-report.png" alt="Customer Performance Report" width="900">
-</p>
+<img src="Images/customer-performance-report.png"
+     alt="Customer Performance Report"
+     width="100%">
 
 Analyzes customer-wise sales performance across multiple fiscal years, helping identify high-performing customers, evaluate revenue contribution, and monitor year-over-year growth.
 
